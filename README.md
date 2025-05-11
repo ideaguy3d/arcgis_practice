@@ -25,6 +25,9 @@ studying & practicing ArcGIS online. Using this readme to bookmark useful stuff.
 ## arcgis ai 
 - https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/imagery/learn-to-use-ai-to-extract-information-from-world-imagery
 
+## living atlas
+- https://livingatlas.arcgis.com/en/home/
+
 
 
 //
