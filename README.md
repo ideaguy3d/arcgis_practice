@@ -2,8 +2,10 @@
 studying & practicing ArcGIS online. Using this readme to bookmark useful stuff. 
 
 ## my profile
-- https://julius3d.maps.arcgis.com/home/user.html
 - https://julius3d.maps.arcgis.com/home/index.html
+### practice maps
+- https://julius3d.maps.arcgis.com/apps/mapviewer/index.html?webmap=ffc8eeec11ca4838946fdece5aec6d45
+- 
 
 ## tutorials sets
 - https://learn.arcgis.com/en/paths/try-arcgis-online/
