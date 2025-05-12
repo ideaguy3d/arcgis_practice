@@ -5,7 +5,9 @@ studying & practicing ArcGIS online. Using this readme to bookmark useful stuff.
 - https://julius3d.maps.arcgis.com/home/index.html
 ### practice maps
 - https://julius3d.maps.arcgis.com/apps/mapviewer/index.html?webmap=ffc8eeec11ca4838946fdece5aec6d45
-- 
+
+## esri arcgis academy 
+- https://www.esri.com/training/
 
 ## tutorials sets
 - https://learn.arcgis.com/en/paths/try-arcgis-online/
